@@ -1,0 +1,8 @@
+The Roundhouse gem is a library of business models and logic that sits on top of the Rails framework. I took inspiration for the name from 1800s era railroading:
+
+"A roundhouse is a building used by railroads for servicing locomotives. Roundhouses are large, circular or semicircular structures that were traditionally located surrounding or adjacent to turntables. The defining feature of the traditional roundhouse was the turntable, which facilitates access when the building is used for repair facilities or for storage of steam locomotives."
+
+"Early steam locomotives normally travelled forwards only; although reverse operations capabilities were soon built into locomotive mechanisms, the controls were normally optimized for forward travel, and the locomotives often could not operate as well in reverse. Some passenger cars, such as observation cars, were also designed as late as the 1960s for operations in a particular direction. A turntable allowed a locomotive or other rolling stock to be turned around for the return journey."
+
+See: http://en.wikipedia.org/wiki/Roundhouse
+
