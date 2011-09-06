@@ -10,4 +10,4 @@ We are focused on the business models and logic that re-occur between projects. 
 
 Roundhouse is made-up of separate modules under the Roundhouse namespace. Each of those modules is contained in a separate sub-directory of this project.
 
-Roundhouse::Country is a collection of all the International Country Codes and Names including Subdivisions. The names are localized using I18n, so your select tags and navigation links will 'just work'. See country/readme for more information.
+Roundhouse::Country is a collection of all the International Country Codes and Names including Subdivisions. The names are localized using I18n, so your select tags and navigation links will 'just work'. See country/readme for more information. (http://en.wikipedia.org/wiki/ISO_3166-1 & http://en.wikipedia.org/wiki/ISO_3166-2)
